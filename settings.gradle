@@ -1,0 +1,2 @@
+rootProject.name = "ClassCastExceptionRepro"
+include ':app'
